@@ -31,7 +31,7 @@
 
 ------
 
-#Esercizi
+##Esercizi
 	
 
 	> 1:2 -> scala di riduzione, 1 cm sul foglio equivale a 2 cm nella realtà
