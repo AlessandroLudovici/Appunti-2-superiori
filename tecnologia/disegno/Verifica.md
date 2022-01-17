@@ -1,6 +1,6 @@
 ##Teoria
 
-[] - Dimensione dei fogli
-[] - Proiezioni ortogonali
-[] - Assionometrie
-[] - Scale di rappresentazione
+ - [ ] Dimensione dei fogli
+ - [ ] Proiezioni ortogonali
+ - [ ] Assionometrie
+ - [ ] Scale di rappresentazione

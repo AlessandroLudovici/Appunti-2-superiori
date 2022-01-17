@@ -1,4 +1,4 @@
-#Scale Di Rappresentazione
+# Scale Di Rappresentazione
 
 ## cosa sono
 	
@@ -26,12 +26,13 @@
 
 ## dicitura
 
-	## <dimensione sul foglio>:<dimensione reale>
-	> 1:5 significa che 1 cm sul foglio equivale a 5cm nella realtà
+	> <dimensione sul foglio>:<dimensione reale>
+
+  1:5 significa che 1 cm sul foglio equivale a 5cm nella realtà
 
 ------
 
-##Esercizi
+## Esercizi
 	
 
 	> 1:2 -> scala di riduzione, 1 cm sul foglio equivale a 2 cm nella realtà
