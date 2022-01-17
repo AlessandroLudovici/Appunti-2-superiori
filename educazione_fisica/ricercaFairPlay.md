@@ -19,7 +19,6 @@ Il concetto di fair play si fa notare per le prime volte attorno al 900. Il rego
 I principi su cui questo modello comportamentale si basa sono: 
 
 - Giocare per divertirsi.
--  Giocare con lealtà.
 - Rispettare le regole del gioco.
 - Rispettare i compagni di squadra, gli avversari, gli arbitri e gli spettatori. 5 Accettare la sconfitta con dignità.
 - Rifiutare il doping, il razzismo, la violenza e la corruzione.
