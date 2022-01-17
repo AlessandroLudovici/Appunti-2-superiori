@@ -1,3 +1,5 @@
+![fair play](https://images.unsplash.com/photo-1604652716188-e226685e94ca)
+
 # Ricerca sul fair play
 
 > Realizzato da Ludovici e Martucci
