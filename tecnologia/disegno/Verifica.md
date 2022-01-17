@@ -1,4 +1,4 @@
-##Teoria
+## Teoria
 
  - [ ] Dimensione dei fogli
  - [ ] Proiezioni ortogonali
