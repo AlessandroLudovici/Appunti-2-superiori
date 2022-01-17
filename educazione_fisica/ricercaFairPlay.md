@@ -39,5 +39,5 @@ Anche se il Fair Play viene primariamente associato al mondo dello sport, questo
 
 -----
 
-## Il Fair Play è un pilastro che dovrebbe trovare le sue fondamenta dentro ogni persona.
+### Dovremmo **tutti** seguire i principi del Fair Play
 
