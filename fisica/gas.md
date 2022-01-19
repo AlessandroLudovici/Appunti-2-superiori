@@ -33,10 +33,9 @@ abbiamo diversi tipi di trasformazione
 
 Per studiare le trasformazioni usiamo le tre leggi sui gas
 
-[La legge di Boyle](Legge%20del%20calore%20per%20il%20gas%20a9c221ae456d43b9ac578e01148d5fb1/La%20legge%20di%20Boyle%20d5898adb1d754c8dadd70787bb85cefa.md)
+[La legge di Boyle](sottoargomenti/la_legge_di_Boyle.md)
 
-[1° Legge di Gay-Lussac](Legge%20del%20calore%20per%20il%20gas%20a9c221ae456d43b9ac578e01148d5fb1/1%C2%B0%20Legge%20di%20Gay-Lussac%208289ca849ccc49c897ae47f8531e6c8a.md)
-
-[2° legge di Gay-Lussac](Legge%20del%20calore%20per%20il%20gas%20a9c221ae456d43b9ac578e01148d5fb1/2%C2%B0%20legge%20di%20Gay-Lussac%2089b64f9681df4af58c438d54baed8bab.md)
+[1° Legge di Gay-Lussac](sottoargomenti/1_legge_di_Gay-Lussac.md)
+[2° Legge di Gay-Lussac](sottoargomenti/2_legge_di_Gay-Lussac.md)
 
 quando un gas è ideale, $\alpha$  e $\beta$ sono $\frac{1}{273}$
